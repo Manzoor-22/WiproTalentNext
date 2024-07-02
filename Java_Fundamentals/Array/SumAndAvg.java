@@ -1,4 +1,4 @@
-package Java_Fundamentals.Arrays;
+package Java_Fundamentals.Array;
 
 // Write a program to initialize an integer array and print the sum and average of the array.
 

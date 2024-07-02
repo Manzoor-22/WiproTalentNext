@@ -1,4 +1,4 @@
-package Java_Fundamentals.Arrays;
+package Java_Fundamentals.Array;
 
 // Initialize an integer array with ascii values and print the corresponding character values in a single row.
 
